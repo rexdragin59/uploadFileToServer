@@ -1,0 +1,3 @@
+# netlify.toml for specifing "functions" directory
+[build]
+  functions = "functions/"
